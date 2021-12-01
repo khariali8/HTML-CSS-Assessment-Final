@@ -29,5 +29,12 @@
 }
 
 img{
+    content: url(/images/desert.jpg);
     height: 194px;
+}
+
+.person{
+    width: 200px;
+    height: 200px;
+
 }
